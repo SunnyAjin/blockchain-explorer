@@ -22,10 +22,15 @@ Maintainers are busy and delegate many decisions to other trusted contributors. 
 
 | Name | GitHub |
 |------|--------|
+| Aditya Joshi | [adityajoshi12][adityajoshi12] |
 | Arun S M | [arsulegai][arsulegai] |
-| Saundarya Saurabh| [saundarya-saurabh][saundarya-saurabh] |
+| Anusha-Padmanabhan | [Anusha-Padmanabhan][Anusha-Padmanabhan] |
+| Archana Arige | [ArchanaArige][ArchanaArige] |
+| Manish Das | [manishdas12][manishdas12] |
+| Satyanarayana Arigela | [arigelas][arigelas] |
 | Sunny Ajin | [SunnyAjin][SunnyAjin] |
-
+| Udhaya Kumari | [Udhayakumari][Udhayakumari] |
+| Vineeth Boppudi | [vineeth2328][vineeth2328] |
 
 **Release Managers**
 
@@ -35,7 +40,7 @@ Maintainers are busy and delegate many decisions to other trusted contributors. 
 **Retired Maintainers**
 
 | Name | GitHub |
-|------|--------|------|----------------------
+|------|--------|
 | Adam Kwan | [adamk1230][adamk1230]  |
 | Anil Kumar | [anilkumargr][anilkumargr]  |
 | Atsushi Neki | [nekia][nekia]  |
@@ -58,4 +63,11 @@ Maintainers are busy and delegate many decisions to other trusted contributors. 
 [umadiraju]: https://github.com/umadiraju
 [vchinoy-da]: https://github.com/vchinoy-da
 [xspeedcruiser]: https://github.com/xspeedcruiser
-
+[ArchanaArige]: https://github.com/ArchanaArige
+[vineeth2328]: https://github.com/vineeth2328
+[arigelas]: https://github.com/arigelas
+[SunnyAjin]: https://github.com/SunnyAjin
+[Anusha-Padmanabhan]: https://github.com/Anusha-Padmanabhan
+[adityajoshi12]: https://github.com/adityajoshi12
+[manishdas12]: https://github.com/manishdas12
+[Udhayakumari]: https://github.com/Udhayakumari
